@@ -1,7 +1,7 @@
 ## Olá!! sou a Isabelle Harue👋
 **`Desenvolvedora FullStack`**
 
-Me chamo Isabelle Harue Tsutsumi Lopes, tenho 20 anos e sou formada em técnico em Análise e em Desenvolvimento de Sistemas e estou cursando Ciência da Computação na Anhanguera. Sou apaixonada pela área desde pequena buscando sempre me aprimorar na tecnlogia, participei de competições de robótica atuando como programadora e desenvolvi projetos acadêmicos e também próprios, atuando como FullStack.
+Me chamo Isabelle Harue Tsutsumi Lopes, tenho 20 anos e sou formada em técnico em Análise e em Desenvolvimento de Sistemas pelo SENAI e estou cursando Ciência da Computação na Anhanguera atualmeente. Sou apaixonada pela área desde pequena buscando sempre me aprimorar na tecnlogia, participei de competições de robótica atuando como programadora e desenvolvi projetos acadêmicos e também próprios, atuando como FullStack.
 
 
 ### 🤖 Linguagens e Tecnologias
